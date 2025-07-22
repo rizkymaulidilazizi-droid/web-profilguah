@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Rizky Maulidil Azizi</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+<head>
+<body>
+    <div class="container">
+        <div class="Poto-Profil">
+         <img src="pas poto daeng.jpg" alt="Poto-Profil" class="foto">
+                    <img src="Ciremai.jpg" alt="Poto-profil" class="foto-ciremai">
+</div>
+  
+<div class="bio">
+<div class="box"
+    <h1>Rizky Maulidil Azizi</h1>
+    <p>Saya Rizky Maulidil Azizi, Umur 19 Tahun anak ke 4 dari 4 bersaudara, saya tinggal di pelosok sumedang desa ujungjaya provinsi jawabarat.
+
+    </p>
+
+    <div class="box">
+    <h2>Tentang Saya</h2>
+    <p>Saya bukan anak yang berasal dari keluarga yang mampu, perjuangan ibu bapa saya dulu luar biasa, cara mereka mendidik anaknya memperjuangkan pendidikanya menjadikan generasi yang mereka cetak bukan generasi pengharap bansos. Dulu pekerjaaan ayah saya adalah seorang pengrajin kayu (Meubel). beliau lulusan pesantren assyrofudin tahun 90han, bapa saya dalam ceritanya mengabdi di pondok selama 7 tahun, saat teman sebaya-nya keluar dari pondok beliau malah menjadi shifu pondok, memang jaman dulu seperti itu. kalau sekarang hanya orang orang yang dipilih allah saja sepertinya hehe. setelah lulus dari pondok babeh saya menjadi pengrajin kayu,ukiranya dulu terkenal di kampungnya kata emak saya. namanya Uta Hidayat(ALM). Babeh saya orang yang gemar sekali bercanda saat orang lain panik dialah pencair suasananya, satu ketika pada malam hari waktu itu ada ular cobra yang masuk ke rumah bagian belakang saya. seorang warga berteriak "PA LEBE ORAYY",-Maap saya lupa bercerita saat menjadi tukang meubel babae saya dipercaya oleh masyarakat karena lulusan pondok menjadi Komandan Tahlil Yaitu "LEBE". Sambung lagi cerita ularnya yaa, saat itu babeh saya keluar buru buru mengambil tongkat shaolin dan menangkap ularnya. sembari di tonton tetangga babeh menangkap dengan gesit menggunakan gaya kera sakti "WASH WISH WUSH", ditangkap lah ular itu. tapi saat ular itu di tangkap babeh saya pura pura pingsan di patuk ular. ia memperlihatkan ekornya di saku celana sambil nyungsep dengan singlet putihnya yang ada bekas gigitan tikus di belakang nya, tiba tiba babeh kejang membuat panik tetangga. Saat akan ditolong malah mengagetkan orang yang mau menolongnya. tertawalah tetangga termasuk saya jhahahahah. ketika mengingat momen bahagia seperti itu rasanya ingin meneteskan air mata, namun tak asiknya air liur ikut menetes juga. yahh memang cerita setiap orang berbeda namun jika kita sama, Tolong jangan merasa kamu paling ttersakiti se alam dunia ya. Staus kita ini privilage asal kalian tau ya. Banyak orang yang berhasil contohmya imam syafi'i dan banyak lagi. dijadikan candaan pun tak apa (dark jokes) karena setelahnyakita bisa sedikit merasa sennag dan melupakan kesedihan nya. 
+        <p>Saya anak terakhir dari 4 bersaudara dan saya kembar,kembaran saya cewe. karena kembaran saya cewe saya tidak merasa menjadi adik malah merasa menjadi seorang kakak yang gagah. tempo dulu sewaktu saya bersekolah di RA mathla unnajah saya berumur 3 tahun karena persyaratan masuk TK harus berumur 5 taun saya 2 tahun belajar di RA mathla unnajah. Saat masuk TK saya terbilang anank yang cepat tanggap, saat orang lain baru belajar membaca saya palingdahulu lancar membaca, saat orang lain belajar membaca iqro saya lebih dahulu membaca al-quran. karena setelah pulang sekolah saya mengaji lagi sampai sore, saya juga gemar menggambar hingga di ikutkan lomba mengambar tingkat kecamatan dan hoki nya saya menang dan lanjut mewakili kecamatan ke tingkat kabupaten nah di tingkat kabupaten ini saya takfookus karena jatuh hati pada partner saya dari kecamatan hingga model gambaran saya sama persis mengikuti apa yang dia gambar hahha kocak memang. saya pulang dengan rasa kesal dan sedikit kecewa waktu dulu karena masih bocil bocilnya. gua lanjut belajar codingan nya dulu ya nanti bercerita lagi.
+</p>
+</div> 
+
+<div class="box">
+<h2>Tujuan Hidup</h2>
+<ul>
+<li>Mendapatkan Ridhonya Allah SWT
+<li>kaya Harta yang bertujuan Kemaslahatan untuk agama, Keluarga, Umat.
+</ul>
+</div> 
+
+<div class="sosmed">
+    <p>Hubungi Saya jika ada yang ingin di bicarakan</p>
+    <a href="https://instagram.com/enkmen" target="_blank">Instagram</a>
+    <a href="rizkymaulidilazizi@gmail.com"> Email</a>
+</div>
+</div>
+</body>
+</html>
